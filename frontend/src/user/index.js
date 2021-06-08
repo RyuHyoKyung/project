@@ -1,0 +1,5 @@
+export { defalt as Login } from 'user/Login'
+export { defalt as Signup } from 'user/Signup'
+export { defalt as UserDetail } from 'user/UserDetail'
+export { defalt as UserEdit } from 'user/UserEdit'
+export { defalt as UserList } from 'user/UserList'
