@@ -1,5 +1,7 @@
 import React from 'react'
+
 const UserEdit = () =>{
-    return(<></>)
+    
 }
-export default UserEditya
+
+export default UserEdit

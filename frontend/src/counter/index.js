@@ -1,1 +1,1 @@
-export { default as Counter } from 'common/Home'
+export { default as Counter } from 'counter/Counter'
